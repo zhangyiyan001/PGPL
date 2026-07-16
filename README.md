@@ -1,8 +1,6 @@
 <div align="center">
 
-# Seed-to-Semantics
-
-### Few-shot Prototype-Guided Progressive Learning for Hyperspectral and LiDAR Classification
+# Seed-to-Semantics Few-shot Prototype-Guided Progressive Learning for Hyperspectral and LiDAR Classification
 
 [![Paper](https://img.shields.io/badge/Paper-IEEE%20TIP-00629B?logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11602747)
 [![DOI](https://img.shields.io/badge/DOI-10.1109%2FTIP.2026.3709522-007EC6)](https://doi.org/10.1109/TIP.2026.3709522)
