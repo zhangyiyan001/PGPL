@@ -17,7 +17,7 @@ Chenkai Zhang, Zhonghao Chen, and Bing Zhang
 
 ## Overview
 
-Seed-to-Semantics is a few-shot learning framework for joint hyperspectral image (HSI) and LiDAR classification. Starting from only a small number of labeled seeds, the method progressively expands reliable supervision and refines the classifier.
+PGPL is a few-shot learning framework for joint hyperspectral image (HSI) and LiDAR classification. Starting from only a small number of labeled seeds, the method progressively expands reliable supervision and refines the classifier.
 
 ![Seed-to-Semantics framework](Framework.png)
 
